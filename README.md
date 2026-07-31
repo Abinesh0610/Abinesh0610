@@ -1,47 +1,28 @@
-# ABINESH K
+# Abinesh K
 
-### ⚡ Where Precision Control Meets Full-Throttle Autonomy 🌀
+**Automotive Control Systems & Autonomous Vehicle Engineer**
 
-Every system has two forces — the calculated strike and the raw surge of power.
-I work at the point where they collide: **Automotive Control + Autonomous Vehicles.**
+Working at the intersection of real-time embedded control and autonomous vehicle software — from HIL testing and ECU programming to SLAM, mapping, and vehicle autonomy stacks.
 
 [LinkedIn](https://www.linkedin.com/in/abinesh-k-bits-pilani-hyderabad/) · [GitHub](https://github.com/Abinesh0610) · [Email](mailto:k.abhinesh@pilani.bits-pilani.ac.in)
 
 ---
 
-## 🐍 Live Chakra Flow (Contribution Snake)
+## About
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abinesh0610/Abinesh0610/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abinesh0610/Abinesh0610/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/Abinesh0610/Abinesh0610/output/github-contribution-grid-snake.svg" />
-</picture>
-
-*Auto-generated daily by a GitHub Action (`.github/workflows/snake.yml`). It goes live the first time the workflow runs on your `Abinesh0610/Abinesh0610` repo.*
+I work on the systems that let a vehicle sense its environment, make decisions, and act on them — building and testing real-time control software, running Hardware-in-the-Loop (HIL) validation, and developing autonomy modules such as mapping, localization, and planning.
 
 ---
 
-## 📊 Live Stats
-
-![Abinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinesh0610&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinesh0610&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh0610&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## ⚡ Current Chakra Nature (a.k.a. What I Do Right Now)
+## Current Role
 
 **Remote Lab Technician — Automotive Control System & Autonomous Vehicle Research Lab**
 BITS Pilani, Hyderabad Campus · WILP Division
 `Dec 2023 – Present · 2 yrs 8 mos` · Hyderabad, Telangana, India (On-site)
 
-I run and support research on autonomous vehicle systems and automotive control — real-time HIL setups, ECU work, and the software stack that lets a vehicle sense, decide, and move on its own.
-
 ---
 
-## 🌀 Training Arc (Work Experience)
+## Work Experience
 
 **Remote Lab Technician** — Automotive Control System Lab
 BITS Pilani, Hyderabad Campus · Full-time
@@ -61,7 +42,7 @@ CRI Group · Internship
 
 ---
 
-## 🎓 Jutsu Training (Education)
+## Education
 
 **BITS Pilani, Hyderabad Campus**
 M.Tech, Automotive Electronics · `Jan 2025 – Present` · Ongoing
@@ -71,13 +52,13 @@ B.E, Electrical and Electronics Engineering · `2019 – 2023` · CGPA: 8.29
 
 ---
 
-## 🔧 Elemental Techniques (Skills)
+## Skills
 
 C (Programming Language) · MATLAB · SpeedGoat RCP · HIL Testing · Automotive Systems · Raptor ECU Programming · Communication Protocols · Project Management · Vibe Coding · Prompt Engineering
 
 ---
 
-## 💥 Signature Moves (Key Projects)
+## Key Projects
 
 - [SDV_over-the-air-update](https://github.com/Abinesh0610/SDV_over-the-air-update) — Software-Defined Vehicle over-the-air update pipeline
 - [WILP_f110th_RaceStack](https://github.com/Abinesh0610/WILP_f110th_RaceStack) — Autonomous racing software stack for the F1/10th platform
@@ -87,6 +68,15 @@ C (Programming Language) · MATLAB · SpeedGoat RCP · HIL Testing · Automotive
 
 ---
 
-### 🌀⚡ Two forces. One direction. Full throttle.
+## Focus Areas
+
+- Real-time control system design and validation (HIL)
+- Autonomous vehicle software: mapping, localization, SLAM
+- ECU programming and communication protocols
+- Software-Defined Vehicle (SDV) architecture and OTA updates
+
+---
+
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/abinesh-k-bits-pilani-hyderabad/) · [GitHub](https://github.com/Abinesh0610) · [Email](mailto:k.abhinesh@pilani.bits-pilani.ac.in)
