@@ -1,5 +1,5 @@
 # ABINESH K
-<img width="5760" height="3840" alt="profile" src="https://github.com/user-attachments/assets/aea98513-c888-4a31-8d7a-31c45c1bccfc" />
+<img width="2203" height="1810" alt="profile (1)" src="https://github.com/user-attachments/assets/f5e4e50b-2d80-4a44-8c82-e124d40a5b66" />
 
 ---
 
