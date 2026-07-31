@@ -1,4 +1,5 @@
 # Abinesh K
+<img width="5760" height="3840" alt="profile" src="https://github.com/user-attachments/assets/aea98513-c888-4a31-8d7a-31c45c1bccfc" />
 
 **Automotive Control Systems & Autonomous Vehicle Engineer**
 
