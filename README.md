@@ -11,7 +11,7 @@ I work on the systems that let a vehicle sense its environment, make decisions, 
 
 ## Current Role
 
-**Remote Lab** — Automotive Control System & Autonomous Vehicle Research Lab**
+**Remote Lab** — **Automotive Control System & Autonomous Vehicle Research Lab**
 BITS Pilani, Hyderabad Campus · WILP Division
 `Dec 2023 – Present · 2 yrs 8 mos` · Hyderabad, Telangana, India (On-site)
 
@@ -19,7 +19,7 @@ BITS Pilani, Hyderabad Campus · WILP Division
 
 ## Work Experience
 
-**Remote Lab** — Automotive Control System Lab
+**Remote Lab** — Automotive Control System and Autonomous Vehicle Labs
 BITS Pilani, Hyderabad Campus · Full-time
 `Dec 2023 – Present · 2 yrs 8 mos` · Hyderabad, Telangana, India · On-site
 
