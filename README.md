@@ -1,11 +1,5 @@
-# Abinesh K
+# ABINESH K
 <img width="5760" height="3840" alt="profile" src="https://github.com/user-attachments/assets/aea98513-c888-4a31-8d7a-31c45c1bccfc" />
-
-**Automotive Control Systems & Autonomous Vehicle Engineer**
-
-Working at the intersection of real-time embedded control and autonomous vehicle software — from HIL testing and ECU programming to SLAM, mapping, and vehicle autonomy stacks.
-
-[LinkedIn](https://www.linkedin.com/in/abinesh-k-bits-pilani-hyderabad/) · [GitHub](https://github.com/Abinesh0610) · [Email](mailto:k.abhinesh@pilani.bits-pilani.ac.in)
 
 ---
 
@@ -17,7 +11,7 @@ I work on the systems that let a vehicle sense its environment, make decisions, 
 
 ## Current Role
 
-**Remote Lab Technician — Automotive Control System & Autonomous Vehicle Research Lab**
+**Remote Lab** — Automotive Control System & Autonomous Vehicle Research Lab**
 BITS Pilani, Hyderabad Campus · WILP Division
 `Dec 2023 – Present · 2 yrs 8 mos` · Hyderabad, Telangana, India (On-site)
 
@@ -25,7 +19,7 @@ BITS Pilani, Hyderabad Campus · WILP Division
 
 ## Work Experience
 
-**Remote Lab Technician** — Automotive Control System Lab
+**Remote Lab** — Automotive Control System Lab
 BITS Pilani, Hyderabad Campus · Full-time
 `Dec 2023 – Present · 2 yrs 8 mos` · Hyderabad, Telangana, India · On-site
 
